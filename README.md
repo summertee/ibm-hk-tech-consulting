@@ -1,6 +1,6 @@
 # ibm-hk-tech-consulting
 
-/* Hello, my name is Summer.
+/* Hello, my name is Summer.  
 First off I would like to apologise to the person who's reading my codes. 
 I am not a CS major but a law graduate.
 The CV screening system must have mistaken my entry level Python programming for a CS major. 
